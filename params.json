@@ -1,0 +1,6 @@
+{
+  "name": "Scorespider",
+  "tagline": "模拟登录获取教务系统成绩",
+  "body": "#### 模拟登录查询教务系统成绩\r\n\r\n####运行 \r\n``python ./ScoreSpider.py``\r\n查询效果:\r\n\r\n![查询效果](http://ww3.sinaimg.cn/large/c28b7899jw1f6vz3stsdhj20gl0fi0wj.jpg)\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
